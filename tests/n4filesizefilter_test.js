@@ -36,5 +36,6 @@ describe('n4FileSizeFilter', function()
       expect(_fileSize(1024 * 1024 * 1024 * 1024)).toEqual('1.0 TB');
       expect(_fileSize(1024 * 1024 * 1024 * 1024 * 1024)).toEqual('1.0 PB');
     });
+
   });
 });
