@@ -1,6 +1,6 @@
 {
   "name": "n4filesizefilter",
-  "main": "n4filesizefilter.js",
+  "main": "dist/n4filesizefilter.js",
   "version": "0.0.1",
   "homepage": "https://github.com//n4filesizefilter",
   "authors": ["N4Works <contato@n4works.com>"],
